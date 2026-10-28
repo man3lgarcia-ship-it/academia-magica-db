@@ -1,0 +1,704 @@
+{
+  "preguntas": [
+    {
+      "cat": "Cálculo mental",
+      "q": "¿Cuánto es 15 × 6?",
+      "opts": ["90", "80", "95", "85"],
+      "a": "90",
+      "tip": "Multiplica 10×6 y súmale 5×6."
+    },
+    {
+      "cat": "Cálculo mental",
+      "q": "¿Cuánto es 120 ÷ 4?",
+      "opts": ["30", "40", "25", "35"],
+      "a": "30",
+      "tip": "Divide 12 entre 4 y agrega el cero."
+    },
+    {
+      "cat": "Cálculo mental",
+      "q": "¿Cuánto es el 25% de 200?",
+      "opts": ["50", "40", "25", "75"],
+      "a": "50",
+      "tip": "El 25% equivale a la cuarta parte."
+    },
+    {
+      "cat": "Cálculo mental",
+      "q": "¿Cuánto es 14 × 5?",
+      "opts": ["70", "65", "75", "60"],
+      "a": "70",
+      "tip": "La mitad de 14 por 10."
+    },
+    {
+      "cat": "Cálculo mental",
+      "q": "¿Cuánto es 250 - 85?",
+      "opts": ["165", "175", "155", "160"],
+      "a": "165",
+      "tip": "Resta primero 50 y luego 35."
+    },
+    {
+      "cat": "Cálculo mental",
+      "q": "¿Cuánto es el cuadrado de 12 (12 × 12)?",
+      "opts": ["144", "124", "134", "154"],
+      "a": "144",
+      "tip": "Doce docenas."
+    },
+    {
+      "cat": "Cálculo mental",
+      "q": "¿Cuánto es 240 ÷ 6?",
+      "opts": ["40", "30", "50", "60"],
+      "a": "40",
+      "tip": "24 dividido entre 6 con un cero."
+    },
+    {
+      "cat": "Cálculo mental",
+      "q": "¿Cuánto es 18 × 3?",
+      "opts": ["54", "48", "52", "56"],
+      "a": "54",
+      "tip": "Suma 18 tres veces o (20×3) - 6."
+    },
+    {
+      "cat": "Cálculo mental",
+      "q": "¿Cuánto es el 10% de 450?",
+      "opts": ["45", "40", "50", "90"],
+      "a": "45",
+      "tip": "Quita el último cero."
+    },
+    {
+      "cat": "Cálculo mental",
+      "q": "¿Cuánto es 500 - 175?",
+      "opts": ["325", "335", "315", "375"],
+      "a": "325",
+      "tip": "Piensa cuánto falta de 175 para llegar a 500."
+    },
+    {
+      "cat": "Cálculo mental",
+      "q": "¿Cuánto es 16 × 4?",
+      "opts": ["64", "54", "74", "68"],
+      "a": "64",
+      "tip": "El doble del doble de 16."
+    },
+    {
+      "cat": "Cálculo mental",
+      "q": "¿Cuánto es 81 ÷ 9?",
+      "opts": ["9", "8", "7", "6"],
+      "a": "9",
+      "tip": "Nueve al cuadrado."
+    },
+    {
+      "cat": "Cálculo mental",
+      "q": "¿Cuánto es el 50% de 360?",
+      "opts": ["180", "160", "150", "190"],
+      "a": "180",
+      "tip": "Es la mitad exacta."
+    },
+    {
+      "cat": "Cálculo mental",
+      "q": "¿Cuánto es 75 + 145?",
+      "opts": ["220", "210", "230", "215"],
+      "a": "220",
+      "tip": "Suma 75 + 5 = 80, luego suma 140."
+    },
+    {
+      "cat": "Cálculo mental",
+      "q": "¿Cuánto es 9 × 11?",
+      "opts": ["99", "90", "101", "89"],
+      "a": "99",
+      "tip": "Tabla del 11."
+    },
+    {
+      "cat": "Cálculo mental",
+      "q": "¿Cuánto es 350 ÷ 7?",
+      "opts": ["50", "40", "60", "70"],
+      "a": "50",
+      "tip": "35 dividido entre 7."
+    },
+    {
+      "cat": "Cálculo mental",
+      "q": "¿Cuánto es 13 × 4?",
+      "opts": ["52", "48", "54", "42"],
+      "a": "52",
+      "tip": "Diez por cuatro más tres por cuatro."
+    },
+    {
+      "cat": "Cálculo mental",
+      "q": "¿Cuánto es 1000 - 380?",
+      "opts": ["620", "720", "680", "630"],
+      "a": "620",
+      "tip": "A mil quítale cuatrocientos y suma veinte."
+    },
+    {
+      "cat": "Cálculo mental",
+      "q": "¿Cuánto es la raíz cuadrada de 49?",
+      "opts": ["7", "6", "8", "9"],
+      "a": "7",
+      "tip": "¿Qué número multiplicado por sí mismo da 49?"
+    },
+    {
+      "cat": "Cálculo mental",
+      "q": "¿Cuánto es 25 × 8?",
+      "opts": ["200", "250", "180", "220"],
+      "a": "200",
+      "tip": "Cuatro veces 25 es 100; el doble es 200."
+    },
+    {
+      "cat": "Problemas",
+      "q": "Un ciclista recorre 18 km cada hora. ¿Cuántos kilómetros recorrerá en 3 horas y media?",
+      "opts": ["63 km", "54 km", "60 km", "72 km"],
+      "a": "63 km",
+      "tip": "18 × 3 = 54, más la mitad de 18 que son 9."
+    },
+    {
+      "cat": "Problemas",
+      "q": "En una tienda hay un descuento del 20% en un abrigo de $500. ¿Cuánto dinero te descuentan?",
+      "opts": ["$100", "$50", "$80", "$120"],
+      "a": "$100",
+      "tip": "Calcula el 20% multiplicando 500 por 0.20."
+    },
+    {
+      "cat": "Problemas",
+      "q": "Si compras 4 libretas a $25 cada una y 2 bolígrafos a $15 cada uno, ¿cuánto pagas en total?",
+      "opts": ["$130", "$120", "$140", "$115"],
+      "a": "$130",
+      "tip": "Libretas = $100; bolígrafos = $30."
+    },
+    {
+      "cat": "Problemas",
+      "q": "Un depósito tiene 300 litros de agua. Se vacía a razón de 25 litros por minuto. ¿En cuántos minutos se vacía por completo?",
+      "opts": ["12 minutos", "10 minutos", "15 minutos", "14 minutos"],
+      "a": "12 minutos",
+      "tip": "Divide 300 entre 25."
+    },
+    {
+      "cat": "Problemas",
+      "q": "En un examen de 40 preguntas respondiste correctamente el 75%. ¿Cuántas preguntas acertaste?",
+      "opts": ["30", "25", "35", "28"],
+      "a": "30",
+      "tip": "Tres cuartas partes de 40."
+    },
+    {
+      "cat": "Problemas",
+      "q": "Tres amigos cooperan para comprar un juego de $240 en partes iguales. ¿Cuánto aporta cada uno?",
+      "opts": ["$80", "$70", "$90", "$60"],
+      "a": "$80",
+      "tip": "Divide 240 entre 3."
+    },
+    {
+      "cat": "Problemas",
+      "q": "Un tren sale a las 8:15 a.m. y llega a su destino a las 11:45 a.m. ¿Cuánto tiempo duró el viaje?",
+      "opts": ["3 horas y 30 minutos", "3 horas y 15 minutos", "3 horas y 45 minutos", "2 horas y 30 minutos"],
+      "a": "3 horas y 30 minutos",
+      "tip": "Calcula de 8:15 a 11:15 y luego suma 30 minutos."
+    },
+    {
+      "cat": "Problemas",
+      "q": "Si 5 cuadernos pesan 1.5 kilogramos en total, ¿cuántos gramos pesa cada cuaderno?",
+      "opts": ["300 gramos", "250 gramos", "350 gramos", "200 gramos"],
+      "a": "300 gramos",
+      "tip": "1.5 kg son 1500 gramos; divide entre 5."
+    },
+    {
+      "cat": "Problemas",
+      "q": "Un terreno rectangular mide 20 metros de largo por 15 metros de ancho. ¿Cuál es su superficie total?",
+      "opts": ["300 m²", "70 m²", "350 m²", "150 m²"],
+      "a": "300 m²",
+      "tip": "Multiplica largo por ancho."
+    },
+    {
+      "cat": "Problemas",
+      "q": "Un tanque de gasolina se llena con $800. Si el marcador marca 3/4 de tanque, ¿cuánto cuesta llenar el cuarto restante?",
+      "opts": ["$200", "$150", "$250", "$100"],
+      "a": "$200",
+      "tip": "Divide el total entre 4."
+    },
+    {
+      "cat": "Problemas",
+      "q": "En una receta para 4 personas se usan 200 gramos de harina. ¿Cuántos gramos se necesitarán para 10 personas?",
+      "opts": ["500 gramos", "400 gramos", "600 gramos", "450 gramos"],
+      "a": "500 gramos",
+      "tip": "Cada persona requiere 50 gramos (200 ÷ 4)."
+    },
+    {
+      "cat": "Problemas",
+      "q": "Un automóvil viaja a velocidad constante de 90 km/h. ¿Qué distancia recorrerá en 20 minutos?",
+      "opts": ["30 km", "45 km", "20 km", "25 km"],
+      "a": "30 km",
+      "tip": "20 minutos es un tercio de hora; 90 ÷ 3."
+    },
+    {
+      "cat": "Problemas",
+      "q": "Si el triple de un número aumentado en 5 es igual a 26, ¿cuál es ese número?",
+      "opts": ["7", "6", "8", "9"],
+      "a": "7",
+      "tip": "Resta 5 a 26 (da 21) y divide entre 3."
+    },
+    {
+      "cat": "Problemas",
+      "q": "Una fábrica produce 120 juguetes por hora. Si trabaja 8 horas al día, ¿cuántos juguetes produce en 5 días?",
+      "opts": ["4800 juguetes", "4000 juguetes", "960 juguetes", "5000 juguetes"],
+      "a": "4800 juguetes",
+      "tip": "120 × 8 = 960 al día; 960 × 5 = 4800."
+    },
+    {
+      "cat": "Problemas",
+      "q": "En un grupo de 60 estudiantes, 2/5 practican fútbol. ¿Cuántos estudiantes practican fútbol?",
+      "opts": ["24", "20", "30", "36"],
+      "a": "24",
+      "tip": "1/5 de 60 es 12; multiplica por 2."
+    },
+    {
+      "cat": "Problemas",
+      "q": "Un comerciante compra un producto a $80 y lo vende ganando el 50% sobre el costo. ¿En cuánto lo vendió?",
+      "opts": ["$120", "$100", "$140", "$110"],
+      "a": "$120",
+      "tip": "La ganancia es $40; suma 80 + 40."
+    },
+    {
+      "cat": "Problemas",
+      "q": "La suma de las edades de dos hermanos es 25 años. Si uno es 5 años mayor que el otro, ¿qué edad tiene el mayor?",
+      "opts": ["15 años", "14 años", "16 años", "20 años"],
+      "a": "15 años",
+      "tip": "Tienen 15 y 10 años; suman 25 y se llevan 5."
+    },
+    {
+      "cat": "Problemas",
+      "q": "Un reloj se atrasa 2 minutos cada hora. ¿Cuántos minutos de atraso acumulará en un día completo (24 horas)?",
+      "opts": ["48 minutos", "24 minutos", "60 minutos", "36 minutos"],
+      "a": "48 minutos",
+      "tip": "Multiplica 2 por 24."
+    },
+    {
+      "cat": "Problemas",
+      "q": "Si compras un artículo de $300 y pagas con IVA incluido del 16%, ¿cuánto dinero corresponde solo al IVA si el subtotal es $300?",
+      "opts": ["$48", "$36", "$52", "$40"],
+      "a": "$48",
+      "tip": "Calcula el 16% de 300 (300 × 0.16)."
+    },
+    {
+      "cat": "Problemas",
+      "q": "Un frasco de medicina contiene 150 ml. Si la dosis diaria es de 5 ml cada 8 horas (3 veces al día), ¿para cuántos días rinde?",
+      "opts": ["10 días", "15 días", "12 días", "8 días"],
+      "a": "10 días",
+      "tip": "Consume 15 ml al día; 150 ÷ 15."
+    },
+    {
+      "cat": "Geometría",
+      "q": "¿Cuál es la fórmula para calcular el área de un círculo?",
+      "opts": ["π × r²", "2 × π × r", "π × d", "Base × Altura ÷ 2"],
+      "a": "π × r²",
+      "tip": "Pi multiplicado por el radio al cuadrado."
+    },
+    {
+      "cat": "Geometría",
+      "q": "¿Cuál es el valor aproximado más utilizado de la constante matemática Pi (π)?",
+      "opts": ["3.1416", "3.4116", "2.1416", "3.1614"],
+      "a": "3.1416",
+      "tip": "Tres punto catorce dieciséis."
+    },
+    {
+      "cat": "Geometría",
+      "q": "¿Cuánto suma siempre la medida de los ángulos interiores de cualquier triángulo?",
+      "opts": ["180 grados", "360 grados", "90 grados", "270 grados"],
+      "a": "180 grados",
+      "tip": "Equivale a medio giro o un ángulo llano."
+    },
+    {
+      "cat": "Geometría",
+      "q": "¿Cuánto suma la medida de los cuatro ángulos interiores de cualquier cuadrilátero?",
+      "opts": ["360 grados", "180 grados", "270 grados", "540 grados"],
+      "a": "360 grados",
+      "tip": "El doble de la suma del triángulo."
+    },
+    {
+      "cat": "Geometría",
+      "q": "¿Cómo se llama el lado opuesto al ángulo recto en un triángulo rectángulo y que además es el más largo?",
+      "opts": ["Hipotenusa", "Cateto adyacente", "Cateto opuesto", "Apotema"],
+      "a": "Hipotenusa",
+      "tip": "Famoso elemento del Teorema de Pitágoras."
+    },
+    {
+      "cat": "Geometría",
+      "q": "¿Qué teorema establece que en un triángulo rectángulo 'el cuadrado de la hipotenusa es igual a la suma de los cuadrados de los catetos'?",
+      "opts": ["Teorema de Pitágoras", "Teorema de Tales", "Teorema de Euclides", "Ley de Senos"],
+      "a": "Teorema de Pitágoras",
+      "tip": "Atribuido al matemático griego Pitágoras."
+    },
+    {
+      "cat": "Geometría",
+      "q": "¿Cuál es la fórmula para calcular el volumen de un cubo de arista 'a'?",
+      "opts": ["a³ (arista al cubo)", "6 × a²", "4 × a", "a²"],
+      "a": "a³ (arista al cubo)",
+      "tip": "Multiplica largo × ancho × alto."
+    },
+    {
+      "cat": "Geometría",
+      "q": "¿La distancia perpendicular desde el centro de un polígono regular hacia cualquiera de sus lados se denomina...?",
+      "opts": ["Apotema", "Radio", "Diámetro", "Mediatriz"],
+      "a": "Apotema",
+      "tip": "Se usa para calcular el área: (Perímetro × Apotema) ÷ 2."
+    },
+    {
+      "cat": "Geometría",
+      "q": "¿Cómo se clasifica un triángulo que tiene un ángulo obtuso (mayor de 90°)?",
+      "opts": ["Obtusángulo", "Acutángulo", "Rectángulo", "Equilátero"],
+      "a": "Obtusángulo",
+      "tip": "Tiene una abertura muy amplia."
+    },
+    {
+      "cat": "Geometría",
+      "q": "¿Cómo se llama el triángulo que tiene sus tres ángulos interiores agudos (menores de 90°)?",
+      "opts": ["Acutángulo", "Obtusángulo", "Rectángulo", "Escaleno"],
+      "a": "Acutángulo",
+      "tip": "Todos sus ángulos son puntiagudos."
+    },
+    {
+      "cat": "Geometría",
+      "q": "¿Cuál es el volumen de un prisma rectangular con medidas 5 cm de largo, 4 cm de ancho y 10 cm de alto?",
+      "opts": ["200 cm³", "190 cm³", "100 cm³", "250 cm³"],
+      "a": "200 cm³",
+      "tip": "Multiplica las tres dimensiones: 5 × 4 × 10."
+    },
+    {
+      "cat": "Geometría",
+      "q": "¿Qué cuerpo geométrico redondo tiene un vértice o cúspide superior y una base circular?",
+      "opts": ["Cono", "Cilindro", "Esfera", "Toroide"],
+      "a": "Cono",
+      "tip": "Como un gorro de fiesta de cumpleaños."
+    },
+    {
+      "cat": "Geometría",
+      "q": "¿Cómo se llama el polígono regular que posee 7 lados?",
+      "opts": ["Heptágono", "Hexágono", "Octágono", "Eneágono"],
+      "a": "Heptágono",
+      "tip": "El prefijo hepta significa siete."
+    },
+    {
+      "cat": "Geometría",
+      "q": "¿Cómo se llama el polígono de 10 lados?",
+      "opts": ["Decágono", "Dodecágono", "Eneágono", "Octágono"],
+      "a": "Decágono",
+      "tip": "El prefijo deca significa diez."
+    },
+    {
+      "cat": "Geometría",
+      "q": "¿Dos figuras que tienen exactamente la misma forma y el mismo tamaño se denominan...?",
+      "opts": ["Congruentes", "Semejantes", "Equivalentes", "Paralelas"],
+      "a": "Congruentes",
+      "tip": "Son copias exactas e idénticas."
+    },
+    {
+      "cat": "Geometría",
+      "q": "¿Dos figuras que tienen la misma forma pero diferente escala o tamaño son...?",
+      "opts": ["Semejantes", "Congruentes", "Isométricas", "Poligonales"],
+      "a": "Semejantes",
+      "tip": "Mismos ángulos, lados proporcionales."
+    },
+    {
+      "cat": "Geometría",
+      "q": "¿Cuál es el área de un triángulo cuya base mide 10 cm y su altura mide 6 cm?",
+      "opts": ["30 cm²", "60 cm²", "20 cm²", "15 cm²"],
+      "a": "30 cm²",
+      "tip": "Fórmula: (Base × Altura) ÷ 2."
+    },
+    {
+      "cat": "Geometría",
+      "q": "¿Un ángulo completo de una vuelta entera mide...?",
+      "opts": ["360 grados", "180 grados", "270 grados", "90 grados"],
+      "a": "360 grados",
+      "tip": "El giro total de una circunferencia."
+    },
+    {
+      "cat": "Geometría",
+      "q": "¿Cómo se llama la línea recta que toca a una circunferencia en un único punto sin cortarla?",
+      "opts": ["Tangente", "Secante", "Cuerda", "Radio"],
+      "a": "Tangente",
+      "tip": "Solo roza exteriormente un punto del borde."
+    },
+    {
+      "cat": "Geometría",
+      "q": "¿Cuál es el área de un rombo cuyas diagonales miden 8 cm y 6 cm?",
+      "opts": ["24 cm²", "48 cm²", "28 cm²", "32 cm²"],
+      "a": "24 cm²",
+      "tip": "Fórmula: (Diagonal mayor × diagonal menor) ÷ 2."
+    },
+    {
+      "cat": "Ciencias",
+      "q": "¿Cuál es la unidad básica y estructural de la vida de todos los seres vivos?",
+      "opts": ["La célula", "El tejido", "El átomo", "La molécula"],
+      "a": "La célula",
+      "tip": "Los organismos pueden ser unicelulares o pluricelulares."
+    },
+    {
+      "cat": "Ciencias",
+      "q": "¿Qué molécula contiene las instrucciones genéticas hereditarias de los seres vivos?",
+      "opts": ["ADN", "ARN", "Glucosa", "Hemoglobina"],
+      "a": "ADN",
+      "tip": "Ácido desoxirribonucleico en forma de doble hélice."
+    },
+    {
+      "cat": "Ciencias",
+      "q": "¿Cuál es la fórmula química de la molécula del agua?",
+      "opts": ["H₂O", "CO₂", "NaCl", "O₂"],
+      "a": "H₂O",
+      "tip": "Dos átomos de hidrógeno y uno de oxígeno."
+    },
+    {
+      "cat": "Ciencias",
+      "q": "¿Qué orgánulo celular es conocido como la central de energía de la célula por producir ATP?",
+      "opts": ["Mitocondria", "Ribosoma", "Núcleo", "Aparato de Golgi"],
+      "a": "Mitocondria",
+      "tip": "Realiza la respiración celular."
+    },
+    {
+      "cat": "Ciencias",
+      "q": "¿Cuál es el elemento químico más abundante en la atmósfera de la Tierra?",
+      "opts": ["Nitrógeno (aprox. 78%)", "Oxígeno (aprox. 21%)", "Dióxido de carbono", "Hidrógeno"],
+      "a": "Nitrógeno (aprox. 78%)",
+      "tip": "Supera con creces la cantidad de oxígeno en el aire."
+    },
+    {
+      "cat": "Ciencias",
+      "q": "¿Cómo se llama el proceso en el que un líquido pasa a ser gas sin llegar a hervir?",
+      "opts": ["Evaporación", "Condensación", "Sublimación", "Fusión"],
+      "a": "Evaporación",
+      "tip": "Como cuando se seca la ropa al sol."
+    },
+    {
+      "cat": "Ciencias",
+      "q": "¿Cómo se llama el paso del agua gaseosa (vapor) a estado líquido formando nubes o gotas?",
+      "opts": ["Condensación", "Evaporación", "Solidificación", "Ebullición"],
+      "a": "Condensación",
+      "tip": "Como las gotas que empañan un vaso frío."
+    },
+    {
+      "cat": "Ciencias",
+      "q": "¿Cuál es la velocidad aproximada de la luz en el vacío?",
+      "opts": ["300,000 km/s", "150,000 km/s", "30,000 km/s", "1,000,000 km/s"],
+      "a": "300,000 km/s",
+      "tip": "Trescientos mil kilómetros en un solo segundo."
+    },
+    {
+      "cat": "Ciencias",
+      "q": "¿Qué científico propuso la teoría de la relatividad general?",
+      "opts": ["Albert Einstein", "Isaac Newton", "Galileo Galilei", "Nikola Tesla"],
+      "a": "Albert Einstein",
+      "tip": "Formuló la famosa ecuación E = mc²."
+    },
+    {
+      "cat": "Ciencias",
+      "q": "¿Qué pigmento verde da su color característico a las plantas y absorbe la luz solar?",
+      "opts": ["Clorofila", "Caroteno", "Hemoglobina", "Melanina"],
+      "a": "Clorofila",
+      "tip": "Se encuentra en los cloroplastos."
+    },
+    {
+      "cat": "Ciencias",
+      "q": "¿Cuál es el hueso más largo y resistente del cuerpo humano?",
+      "opts": ["El fémur", "La tibia", "El húmero", "El peroné"],
+      "a": "El fémur",
+      "tip": "Se encuentra en el muslo de la pierna."
+    },
+    {
+      "cat": "Ciencias",
+      "q": "¿Qué tipo de energía posee un cuerpo en movimiento?",
+      "opts": ["Energía cinética", "Energía potencial", "Energía térmica", "Energía química"],
+      "a": "Energía cinética",
+      "tip": "Depende de la masa y la velocidad del objeto."
+    },
+    {
+      "cat": "Ciencias",
+      "q": "¿Qué tipo de energía almacena un cuerpo debido a su altura o posición?",
+      "opts": ["Energía potencial", "Energía cinética", "Energía solar", "Energía eléctrica"],
+      "a": "Energía potencial",
+      "tip": "Como una roca quieta en la cima de una montaña."
+    },
+    {
+      "cat": "Ciencias",
+      "q": "¿Cuál es la capa de la atmósfera que nos protege de la radiación ultravioleta dañina del Sol?",
+      "opts": ["Capa de ozono", "Troposfera", "Termosfera", "Exosfera"],
+      "a": "Capa de ozono",
+      "tip": "Compuesta por moléculas de gas O₃."
+    },
+    {
+      "cat": "Ciencias",
+      "q": "¿Cómo se llama la placa tectónica sobre la que se asienta la mayor parte del territorio mexicano?",
+      "opts": ["Placa Norteamericana", "Placa de Cocos", "Placa del Pacífico", "Placa del Caribe"],
+      "a": "Placa Norteamericana",
+      "tip": "Abarca Canadá, Estados Unidos y la mayor parte de México."
+    },
+    {
+      "cat": "Ciencias",
+      "q": "¿Cómo se denomina a las partículas atómicas con carga eléctrica negativa?",
+      "opts": ["Electrones", "Protones", "Neutrones", "Fotones"],
+      "a": "Electrones",
+      "tip": "Orbitan alrededor del núcleo del átomo."
+    },
+    {
+      "cat": "Ciencias",
+      "q": "¿Qué partículas atómicas tienen carga positiva y residen en el núcleo atómico?",
+      "opts": ["Protones", "Electrones", "Neutrones", "Quarks"],
+      "a": "Protones",
+      "tip": "Determinan el número atómico de cada elemento."
+    },
+    {
+      "cat": "Ciencias",
+      "q": "¿Qué escala mide la magnitud de la energía liberada durante un terremoto o sismo?",
+      "opts": ["Escala de Richter / Momento", "Escala de Beaufort", "Escala de Mohs", "Escala de Celsius"],
+      "a": "Escala de Richter / Momento",
+      "tip": "Escala logarítmica que evalúa la magnitud del temblor."
+    },
+    {
+      "cat": "Ciencias",
+      "q": "¿Cuál es el mineral natural más duro conocido en la Tierra según la escala de Mohs?",
+      "opts": ["El diamante", "El cuarzo", "El topacio", "El corindón"],
+      "a": "El diamante",
+      "tip": "Tiene una dureza máxima de 10."
+    },
+    {
+      "cat": "Ciencias",
+      "q": "¿Qué órgano produce la insulina para regular los niveles de azúcar (glucosa) en la sangre?",
+      "opts": ["El páncreas", "El hígado", "El bazo", "El riñón"],
+      "a": "El páncreas",
+      "tip": "Glándula mixta situada detrás del estómago."
+    },
+    {
+      "cat": "Lenguaje",
+      "q": "¿Qué figura retórica consiste en exagerar notablemente una realidad (ejemplo: 'te lo he dicho un millón de veces')?",
+      "opts": ["Hipérbole", "Metáfora", "Personificación", "Aliteración"],
+      "a": "Hipérbole",
+      "tip": "Exageración expresiva."
+    },
+    {
+      "cat": "Lenguaje",
+      "q": "¿Qué figura retórica atribuye cualidades o acciones humanas a objetos o animales?",
+      "opts": ["Personificación", "Metáfora", "Hipérbaton", "Símil"],
+      "a": "Personificación",
+      "tip": "Por ejemplo: 'el viento susurraba entre las ramas'."
+    },
+    {
+      "cat": "Lenguaje",
+      "q": "¿Qué figura literaria compara directamente dos elementos usando palabras como 'como', 'parece' o 'cual'?",
+      "opts": ["Símil o comparación", "Metáfora", "Paradoja", "Ironía"],
+      "a": "Símil o comparación",
+      "tip": "Por ejemplo: 'sus ojos brillaban como estrellas'."
+    },
+    {
+      "cat": "Lenguaje",
+      "q": "¿Qué función cumple el adverbio en una oración?",
+      "opts": ["Modificar a un verbo, un adjetivo o a otro adverbio", "Nombrar personas o cosas", "Unir oraciones", "Sustituir al sujeto"],
+      "a": "Modificar a un verbo, un adjetivo o a otro adverbio",
+      "tip": "Indica tiempo, lugar, modo o cantidad (ej. corrió 'rápidamente')."
+    },
+    {
+      "cat": "Lenguaje",
+      "q": "¿En la oración 'Ellos llegaron demasiado temprano', qué tipo de palabra es 'temprano'?",
+      "opts": ["Adverbio de tiempo", "Adjetivo", "Verbo", "Sustantivo"],
+      "a": "Adverbio de tiempo",
+      "tip": "Responde a la pregunta: ¿cuándo llegaron?"
+    },
+    {
+      "cat": "Lenguaje",
+      "q": "¿Cómo se llaman las palabras que suenan exactamente igual pero se escriben distinto y tienen significados diferentes?",
+      "opts": ["Homófonas", "Sinónimas", "Antónimas", "Parónimas"],
+      "a": "Homófonas",
+      "tip": "Como 'tubo' (cilindro) y 'tuvo' (del verbo tener)."
+    },
+    {
+      "cat": "Lenguaje",
+      "q": "¿Cuál es la opción correcta para completar: 'Él ___ ido a comprar pan'?",
+      "opts": ["ha", "ah", "a", "haya"],
+      "a": "ha",
+      "tip": "Del verbo auxiliar haber (con H)."
+    },
+    {
+      "cat": "Lenguaje",
+      "q": "¿Cuál es la opción correcta para completar: 'Voy ___ la biblioteca escolar'?",
+      "opts": ["a", "ha", "ah", "hay"],
+      "a": "a",
+      "tip": "Preposición simple de dirección."
+    },
+    {
+      "cat": "Lenguaje",
+      "q": "¿Cuál es la función del núcleo del predicado en una oración bimembre?",
+      "opts": ["Es el verbo principal conjugado", "Es el sujeto que realiza la acción", "Es el adjetivo descriptivo", "Es el conector"],
+      "a": "Es el verbo principal conjugado",
+      "tip": "Constituye la acción central del predicado."
+    },
+    {
+      "cat": "Lenguaje",
+      "q": "¿Qué modo verbal expresa deseos, dudas, posibilidades o hipótesis?",
+      "opts": ["Modo subjuntivo", "Modo indicativo", "Modo imperativo", "Infinitivo"],
+      "a": "Modo subjuntivo",
+      "tip": "Como en 'ojalá llueva' o 'tal vez venga'."
+    },
+    {
+      "cat": "Lenguaje",
+      "q": "¿Qué modo verbal se utiliza para dar órdenes, mandatos o instrucciones directas?",
+      "opts": ["Modo imperativo", "Modo indicativo", "Modo subjuntivo", "Gerundio"],
+      "a": "Modo imperativo",
+      "tip": "Como en '¡cierra la puerta!' o 'haz la tarea'."
+    },
+    {
+      "cat": "Lenguaje",
+      "q": "¿Las palabras sobresdrújulas llevan el acento en la...?",
+      "opts": ["Sílaba anterior a la antepenúltima", "Antepenúltima sílaba", "Penúltima sílaba", "Última sílaba"],
+      "a": "Sílaba anterior a la antepenúltima",
+      "tip": "Como en 'recuérdamelo' o 'fácilmente'."
+    },
+    {
+      "cat": "Lenguaje",
+      "q": "¿Cómo se llama el texto literario escrito en verso que expresa emociones profundas?",
+      "opts": ["Poema o poesía", "Noticia periodística", "Ensayo científico", "Instructivo"],
+      "a": "Poema o poesía",
+      "tip": "Organizado en estrofas y versos con rima o métrica."
+    },
+    {
+      "cat": "Lenguaje",
+      "q": "¿Cuál de las siguientes formas es un verbo en infinitivo?",
+      "opts": ["Aprender", "Aprendiendo", "Aprendido", "Aprende"],
+      "a": "Aprender",
+      "tip": "Termina en -ar, -er o -ir sin conjugar."
+    },
+    {
+      "cat": "Lenguaje",
+      "q": "¿Cuál de las siguientes formas es un gerundio?",
+      "opts": ["Caminando", "Caminar", "Caminado", "Caminó"],
+      "a": "Caminando",
+      "tip": "Termina en -ando o -iendo, indicando acción continua."
+    },
+    {
+      "cat": "Lenguaje",
+      "q": "¿Cuál de las siguientes formas es un participio regular?",
+      "opts": ["Vivido", "Vivir", "Viviendo", "Vive"],
+      "a": "Vivido",
+      "tip": "Termina en -ado o -ido."
+    },
+    {
+      "cat": "Lenguaje",
+      "q": "¿Qué signo ortográfico se utiliza para introducir una cita textual o diálogo directo?",
+      "opts": ["Comillas (\" \") o guion largo (—)", "Paréntesis", "Corchetes", "Punto y coma"],
+      "a": "Comillas (\" \") o guion largo (—)",
+      "tip": "Indica las palabras textuales que alguien pronunció."
+    },
+    {
+      "cat": "Lenguaje",
+      "q": "¿Cómo se llama la narración tradicional breve que deja una enseñanza moral llamada 'moraleja' y suele tener animales como personajes?",
+      "opts": ["Fábula", "Leyenda", "Mito", "Novela"],
+      "a": "Fábula",
+      "tip": "Como las fábulas de Esopo."
+    },
+    {
+      "cat": "Lenguaje",
+      "q": "¿Qué palabra está escrita con la ortografía correcta?",
+      "opts": ["Absorber", "Absorver", "Azorber", "Absorvér"],
+      "a": "Absorber",
+      "tip": "Lleva 'b' en ambas posiciones intermedias."
+    },
+    {
+      "cat": "Lenguaje",
+      "q": "¿Qué tipo de conector es la palabra 'sin embargo'?",
+      "opts": ["Conector de oposición o adversativo", "Conector de causa", "Conector de tiempo", "Conector de adición"],
+      "a": "Conector de oposición o adversativo",
+      "tip": "Introduce una idea contraria a la anterior."
+    }
+  ]
+}
