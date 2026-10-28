@@ -1,0 +1,704 @@
+{
+  "preguntas": [
+    {
+      "cat": "Cálculo mental",
+      "q": "¿Cuánto es 8 × 4?",
+      "opts": ["32", "24", "36", "28"],
+      "a": "32",
+      "tip": "Multiplica 8 cuatro veces."
+    },
+    {
+      "cat": "Cálculo mental",
+      "q": "¿Cuánto es 7 × 6?",
+      "opts": ["42", "48", "36", "49"],
+      "a": "42",
+      "tip": "Tabla del 7."
+    },
+    {
+      "cat": "Cálculo mental",
+      "q": "¿Cuánto es 9 × 3?",
+      "opts": ["27", "24", "30", "18"],
+      "a": "27",
+      "tip": "Tres veces nueve."
+    },
+    {
+      "cat": "Cálculo mental",
+      "q": "¿Cuánto es 6 × 8?",
+      "opts": ["48", "42", "54", "56"],
+      "a": "48",
+      "tip": "Tabla del 6 o del 8."
+    },
+    {
+      "cat": "Cálculo mental",
+      "q": "¿Cuánto es 25 + 35?",
+      "opts": ["60", "50", "65", "55"],
+      "a": "60",
+      "tip": "Suma primero las decenas: 20+30, y luego las unidades: 5+5."
+    },
+    {
+      "cat": "Cálculo mental",
+      "q": "¿Cuánto es 50 - 18?",
+      "opts": ["32", "38", "22", "34"],
+      "a": "32",
+      "tip": "A 50 réstale 10 y luego réstale 8."
+    },
+    {
+      "cat": "Cálculo mental",
+      "q": "¿Cuánto es 15 × 2?",
+      "opts": ["30", "25", "35", "40"],
+      "a": "30",
+      "tip": "El doble de quince."
+    },
+    {
+      "cat": "Cálculo mental",
+      "q": "¿Cuánto es la mitad de 84?",
+      "opts": ["42", "44", "41", "32"],
+      "a": "42",
+      "tip": "Mitad de 80 y mitad de 4."
+    },
+    {
+      "cat": "Cálculo mental",
+      "q": "¿Cuánto es 100 - 35?",
+      "opts": ["65", "75", "55", "70"],
+      "a": "65",
+      "tip": "Piensa cuánto falta para llegar a 100."
+    },
+    {
+      "cat": "Cálculo mental",
+      "q": "¿Cuánto es 4 × 12?",
+      "opts": ["48", "44", "52", "40"],
+      "a": "48",
+      "tip": "Cuatro veces diez más cuatro veces dos."
+    },
+    {
+      "cat": "Cálculo mental",
+      "q": "¿Cuánto es 45 ÷ 5?",
+      "opts": ["9", "8", "7", "6"],
+      "a": "9",
+      "tip": "¿Qué número multiplicado por 5 da 45?"
+    },
+    {
+      "cat": "Cálculo mental",
+      "q": "¿Cuánto es 36 ÷ 6?",
+      "opts": ["6", "7", "5", "8"],
+      "a": "6",
+      "tip": "Un número multiplicado por sí mismo que da 36."
+    },
+    {
+      "cat": "Cálculo mental",
+      "q": "¿Cuánto es 14 + 29?",
+      "opts": ["43", "42", "44", "39"],
+      "a": "43",
+      "tip": "Suma 14 + 30 y resta 1."
+    },
+    {
+      "cat": "Cálculo mental",
+      "q": "¿Cuánto es 70 - 25?",
+      "opts": ["45", "55", "35", "50"],
+      "a": "45",
+      "tip": "Resta primero 20 y luego 5."
+    },
+    {
+      "cat": "Cálculo mental",
+      "q": "¿Cuánto es 8 × 8?",
+      "opts": ["64", "56", "72", "68"],
+      "a": "64",
+      "tip": "Ocho al cuadrado."
+    },
+    {
+      "cat": "Cálculo mental",
+      "q": "¿Cuánto es 63 ÷ 7?",
+      "opts": ["9", "8", "7", "6"],
+      "a": "9",
+      "tip": "Tabla del 7."
+    },
+    {
+      "cat": "Cálculo mental",
+      "q": "¿Cuánto es el triple de 15?",
+      "opts": ["45", "30", "50", "40"],
+      "a": "45",
+      "tip": "Multiplica 15 por 3."
+    },
+    {
+      "cat": "Cálculo mental",
+      "q": "¿Cuánto es 90 - 45?",
+      "opts": ["45", "55", "35", "50"],
+      "a": "45",
+      "tip": "45 es la mitad exacta de 90."
+    },
+    {
+      "cat": "Cálculo mental",
+      "q": "¿Cuánto es 7 × 8?",
+      "opts": ["56", "54", "64", "48"],
+      "a": "56",
+      "tip": "Recuerda: 5, 6, 7, 8 -> 56 = 7 × 8."
+    },
+    {
+      "cat": "Cálculo mental",
+      "q": "¿Cuánto es 50 × 4?",
+      "opts": ["200", "150", "250", "100"],
+      "a": "200",
+      "tip": "Cuatro billetes o monedas de 50."
+    },
+    {
+      "cat": "Problemas",
+      "q": "Si un paquete trae 6 galletas, ¿cuántas galletas hay en 5 paquetes?",
+      "opts": ["30", "24", "35", "25"],
+      "a": "30",
+      "tip": "Multiplica 6 por 5."
+    },
+    {
+      "cat": "Problemas",
+      "q": "Tienes $50 y compras una libreta de $28. ¿Cuánto dinero te sobra?",
+      "opts": ["$22", "$32", "$18", "$25"],
+      "a": "$22",
+      "tip": "Resta 50 menos 28."
+    },
+    {
+      "cat": "Problemas",
+      "q": "Una caja tiene 24 chocolates y se reparten entre 4 niños en partes iguales. ¿Cuántos recibe cada uno?",
+      "opts": ["6", "8", "4", "7"],
+      "a": "6",
+      "tip": "Divide 24 entre 4."
+    },
+    {
+      "cat": "Problemas",
+      "q": "En un autobús viajan 32 personas. En la parada bajan 10 y suben 5. ¿Cuántas personas viajan ahora?",
+      "opts": ["27", "28", "26", "25"],
+      "a": "27",
+      "tip": "A 32 réstale 10 y luego súmale 5."
+    },
+    {
+      "cat": "Problemas",
+      "q": "Si una caja de colores cuesta $15, ¿cuánto cuestan 3 cajas iguales?",
+      "opts": ["$45", "$30", "$50", "$40"],
+      "a": "$45",
+      "tip": "Suma 15 tres veces o multiplica 15 por 3."
+    },
+    {
+      "cat": "Problemas",
+      "q": "Martín ahorra $10 cada día de lunes a viernes. ¿Cuánto ahorra en total esa semana?",
+      "opts": ["$50", "$60", "$40", "$70"],
+      "a": "$50",
+      "tip": "Son 5 días multiplicados por $10."
+    },
+    {
+      "cat": "Problemas",
+      "q": "En la biblioteca hay 85 libros infantiles. Hoy prestaron 30. ¿Cuántos libros quedan?",
+      "opts": ["55", "45", "60", "50"],
+      "a": "55",
+      "tip": "A 85 réstale 30."
+    },
+    {
+      "cat": "Problemas",
+      "q": "Si cada mesa tiene 4 patas, ¿cuántas patas tienen 8 mesas juntas?",
+      "opts": ["32", "28", "36", "40"],
+      "a": "32",
+      "tip": "Multiplica 4 por 8."
+    },
+    {
+      "cat": "Problemas",
+      "q": "Un granjero recolectó 40 huevos y los coloca en cartones de 10. ¿Cuántos cartones llena?",
+      "opts": ["4", "5", "3", "6"],
+      "a": "4",
+      "tip": "Divide 40 entre 10."
+    },
+    {
+      "cat": "Problemas",
+      "q": "Compré 3 jugos de $8 cada uno y pagué con un billete de $50. ¿Cuánto me regresaron de cambio?",
+      "opts": ["$26", "$24", "$30", "$28"],
+      "a": "$26",
+      "tip": "3 jugos son $24; a 50 réstale 24."
+    },
+    {
+      "cat": "Problemas",
+      "q": "En un salón hay 15 niñas y 13 niños. ¿Cuántos alumnos hay en total?",
+      "opts": ["28", "27", "29", "26"],
+      "a": "28",
+      "tip": "Suma 15 más 13."
+    },
+    {
+      "cat": "Problemas",
+      "q": "Un rollo de cuerda mide 60 metros. Se cortan 25 metros para tender ropa. ¿Cuántos metros quedan?",
+      "opts": ["35 metros", "45 metros", "30 metros", "25 metros"],
+      "a": "35 metros",
+      "tip": "Resta 60 menos 25."
+    },
+    {
+      "cat": "Problemas",
+      "q": "Una película dura 90 minutos. Ya han pasado 40 minutos. ¿Cuántos minutos faltan para terminar?",
+      "opts": ["50 minutos", "45 minutos", "60 minutos", "40 minutos"],
+      "a": "50 minutos",
+      "tip": "Resta 90 menos 40."
+    },
+    {
+      "cat": "Problemas",
+      "q": "Si tienes 3 monedas de $10 y 4 monedas de $5, ¿cuánto dinero tienes?",
+      "opts": ["$50", "$45", "$55", "$40"],
+      "a": "$50",
+      "tip": "30 pesos en monedas de 10 más 20 pesos en monedas de 5."
+    },
+    {
+      "cat": "Problemas",
+      "q": "En una carrera compiten 50 corredores. 12 abandonan antes de la meta. ¿Cuántos llegaron?",
+      "opts": ["38", "42", "36", "40"],
+      "a": "38",
+      "tip": "A 50 réstale 12."
+    },
+    {
+      "cat": "Problemas",
+      "q": "Cada día lees 10 páginas de un libro. ¿Cuántas páginas habrás leído en 7 días?",
+      "opts": ["70", "60", "80", "50"],
+      "a": "70",
+      "tip": "Multiplica 10 por 7."
+    },
+    {
+      "cat": "Problemas",
+      "q": "Un pastel se divide en 8 rebanadas iguales. Si la familia se come 5 rebanadas, ¿qué fracción sobra?",
+      "opts": ["3/8", "5/8", "2/8", "4/8"],
+      "a": "3/8",
+      "tip": "Quedan 3 rebanadas del total de 8."
+    },
+    {
+      "cat": "Problemas",
+      "q": "Si 1 kilogramo de manzanas cuesta $20, ¿cuánto cuestan 3 kilogramos y medio?",
+      "opts": ["$70", "$60", "$65", "$75"],
+      "a": "$70",
+      "tip": "3 kilos son $60, más medio kilo que son $10."
+    },
+    {
+      "cat": "Problemas",
+      "q": "Un estacionamiento tiene 6 filas y en cada fila caben 10 autos. ¿Cuántos autos caben en total?",
+      "opts": ["60", "50", "70", "66"],
+      "a": "60",
+      "tip": "Multiplica 6 por 10."
+    },
+    {
+      "cat": "Problemas",
+      "q": "Tienes $100. Gastas $40 en comida y $25 en un juguete. ¿Cuánto dinero te sobra?",
+      "opts": ["$35", "$45", "$30", "$25"],
+      "a": "$35",
+      "tip": "Gastas 65 en total; resta 100 menos 65."
+    },
+    {
+      "cat": "Geometría",
+      "q": "¿Cómo se llama un triángulo que tiene sus 3 lados exactamente iguales?",
+      "opts": ["Equilátero", "Isósceles", "Escaleno", "Rectángulo"],
+      "a": "Equilátero",
+      "tip": "Equi significa igual."
+    },
+    {
+      "cat": "Geometría",
+      "q": "¿Cómo se llama un triángulo que tiene 2 lados iguales y 1 diferente?",
+      "opts": ["Isósceles", "Equilátero", "Escaleno", "Obtusángulo"],
+      "a": "Isósceles",
+      "tip": "Tiene un par de lados gemelos."
+    },
+    {
+      "cat": "Geometría",
+      "q": "¿Cómo se llama un triángulo que tiene todos sus lados de diferente tamaño?",
+      "opts": ["Escaleno", "Equilátero", "Isósceles", "Cuadrilátero"],
+      "a": "Escaleno",
+      "tip": "Ninguno de sus 3 lados mide lo mismo."
+    },
+    {
+      "cat": "Geometría",
+      "q": "¿Cuántos lados tiene un hexágono?",
+      "opts": ["6", "7", "5", "8"],
+      "a": "6",
+      "tip": "Forma típica de los panales de abejas."
+    },
+    {
+      "cat": "Geometría",
+      "q": "¿Cuántos lados tiene un octágono?",
+      "opts": ["8", "7", "9", "6"],
+      "a": "8",
+      "tip": "Forma típica de los letreros de ALTO (STOP)."
+    },
+    {
+      "cat": "Geometría",
+      "q": "¿Cuánto mide el perímetro de un cuadrado cuyos lados miden 5 cm cada uno?",
+      "opts": ["20 cm", "25 cm", "15 cm", "10 cm"],
+      "a": "20 cm",
+      "tip": "Suma sus 4 lados: 5 + 5 + 5 + 5."
+    },
+    {
+      "cat": "Geometría",
+      "q": "¿Cómo se calcula el área de un rectángulo?",
+      "opts": ["Base × Altura", "Base + Altura", "Lado + Lado", "Base ÷ Altura"],
+      "a": "Base × Altura",
+      "tip": "Multiplica el largo por el ancho."
+    },
+    {
+      "cat": "Geometría",
+      "q": "¿Cuánto mide un ángulo recto perfecto?",
+      "opts": ["90 grados", "180 grados", "45 grados", "360 grados"],
+      "a": "90 grados",
+      "tip": "Es la esquina perfecta de una hoja de papel o marco."
+    },
+    {
+      "cat": "Geometría",
+      "q": "¿Un ángulo que mide MENOS de 90 grados se llama...?",
+      "opts": ["Agudo", "Obtuso", "Llano", "Recto"],
+      "a": "Agudo",
+      "tip": "Es cerrado y puntiagudo."
+    },
+    {
+      "cat": "Geometría",
+      "q": "¿Un ángulo que mide MÁS de 90 grados pero menos de 180 se llama...?",
+      "opts": ["Obtuso", "Agudo", "Recto", "Completo"],
+      "a": "Obtuso",
+      "tip": "Es un ángulo muy abierto."
+    },
+    {
+      "cat": "Geometría",
+      "q": "¿Cómo se llaman las líneas que nunca se cruzan ni se tocan aunque se prolonguen?",
+      "opts": ["Paralelas", "Perpendiculares", "Secantes", "Curvas"],
+      "a": "Paralelas",
+      "tip": "Como las vías del tren."
+    },
+    {
+      "cat": "Geometría",
+      "q": "¿Cómo se llaman dos líneas que al cruzarse forman ángulos rectos de 90°?",
+      "opts": ["Perpendiculares", "Paralelas", "Curvas", "Diagonales"],
+      "a": "Perpendiculares",
+      "tip": "Forman una cruz perfecta (+)."
+    },
+    {
+      "cat": "Geometría",
+      "q": "¿Cuántos vértices (esquinas) tiene un triángulo?",
+      "opts": ["3", "4", "2", "1"],
+      "a": "3",
+      "tip": "Puntos donde se unen sus lados."
+    },
+    {
+      "cat": "Geometría",
+      "q": "¿Cuántas aristas tiene un cubo?",
+      "opts": ["12", "6", "8", "16"],
+      "a": "12",
+      "tip": "Cuenta todos los bordes o filos del cubo."
+    },
+    {
+      "cat": "Geometría",
+      "q": "¿Cuántos vértices (esquinas con punta) tiene un cubo?",
+      "opts": ["8", "6", "12", "4"],
+      "a": "8",
+      "tip": "4 esquinas arriba y 4 abajo."
+    },
+    {
+      "cat": "Geometría",
+      "q": "¿Qué instrumento escolar se utiliza para medir ángulos en grados?",
+      "opts": ["Transportador", "Regla", "Compás", "Escuadra"],
+      "a": "Transportador",
+      "tip": "Suele tener forma de medio círculo transparente numerado."
+    },
+    {
+      "cat": "Geometría",
+      "q": "¿Qué instrumento escolar con punta metálica se usa para trazar círculos perfectos?",
+      "opts": ["Compás", "Transportador", "Regla", "Borrador"],
+      "a": "Compás",
+      "tip": "Gira sobre una aguja mientras el lápiz dibuja."
+    },
+    {
+      "cat": "Geometría",
+      "q": "¿La línea recta que va de un extremo a otro del círculo pasando por su centro exacto se llama...?",
+      "opts": ["Diámetro", "Radio", "Cuerda", "Arco"],
+      "a": "Diámetro",
+      "tip": "Divide al círculo en dos mitades exactas."
+    },
+    {
+      "cat": "Geometría",
+      "q": "¿La distancia desde el centro del círculo hacia cualquier orilla se llama...?",
+      "opts": ["Radio", "Diámetro", "Perímetro", "Vértice"],
+      "a": "Radio",
+      "tip": "Es la mitad exacta del diámetro."
+    },
+    {
+      "cat": "Geometría",
+      "q": "¿Cuál es el perímetro de un triángulo equilátero que mide 6 cm por lado?",
+      "opts": ["18 cm", "12 cm", "24 cm", "15 cm"],
+      "a": "18 cm",
+      "tip": "Suma sus tres lados iguales: 6 + 6 + 6."
+    },
+    {
+      "cat": "Ciencias",
+      "q": "¿Qué gas respiramos los seres humanos para vivir?",
+      "opts": ["Oxígeno", "Dióxido de carbono", "Nitrógeno", "Helio"],
+      "a": "Oxígeno",
+      "tip": "Es producido por las plantas durante el día."
+    },
+    {
+      "cat": "Ciencias",
+      "q": "¿Qué gas expulsamos al exhalar el aire de los pulmones?",
+      "opts": ["Dióxido de carbono", "Oxígeno puro", "Hidrógeno", "Ozono"],
+      "a": "Dióxido de carbono",
+      "tip": "Las plantas lo absorben para hacer fotosíntesis."
+    },
+    {
+      "cat": "Ciencias",
+      "q": "¿Cómo se llama el proceso por el cual las plantas fabrican su propio alimento con luz solar?",
+      "opts": ["Fotosíntesis", "Respiración", "Germinación", "Evaporación"],
+      "a": "Fotosíntesis",
+      "tip": "Ocurre principalmente en sus hojas verdes."
+    },
+    {
+      "cat": "Ciencias",
+      "q": "¿A qué temperatura hierve el agua a nivel del mar?",
+      "opts": ["100 °C", "50 °C", "0 °C", "200 °C"],
+      "a": "100 °C",
+      "tip": "Pasa de estado líquido a vapor."
+    },
+    {
+      "cat": "Ciencias",
+      "q": "¿A qué temperatura se congela el agua convirtiéndose en hielo?",
+      "opts": ["0 °C", "10 °C", "-10 °C", "100 °C"],
+      "a": "0 °C",
+      "tip": "Punto de congelación."
+    },
+    {
+      "cat": "Ciencias",
+      "q": "¿Cuáles son los tres estados comunes de la materia?",
+      "opts": ["Sólido, líquido y gaseoso", "Frío, caliente y tibio", "Duro, blando y elástico", "Luz, sombra y fuego"],
+      "a": "Sólido, líquido y gaseoso",
+      "tip": "Como el hielo, el agua líquida y el vapor."
+    },
+    {
+      "cat": "Ciencias",
+      "q": "¿Cuál es el órgano principal que bombea la sangre a todo el cuerpo humano?",
+      "opts": ["El corazón", "El cerebro", "El pulmón", "El estómago"],
+      "a": "El corazón",
+      "tip": "Late constantemente en el pecho."
+    },
+    {
+      "cat": "Ciencias",
+      "q": "¿Qué órganos principales utilizamos para respirar?",
+      "opts": ["Los pulmones", "Los riñones", "Los intestinos", "El hígado"],
+      "a": "Los pulmones",
+      "tip": "Se llenan de aire en la caja torácica."
+    },
+    {
+      "cat": "Ciencias",
+      "q": "¿Aproximadamente cuántos huesos tiene el cuerpo humano adulto?",
+      "opts": ["206", "150", "300", "100"],
+      "a": "206",
+      "tip": "Un poco más de doscientos."
+    },
+    {
+      "cat": "Ciencias",
+      "q": "¿Los animales que se alimentan exclusivamente de plantas se llaman...?",
+      "opts": ["Herbívoros", "Carnívoros", "Omnívoros", "Insectívoros"],
+      "a": "Herbívoros",
+      "tip": "Comen hierbas, pasto y frutos."
+    },
+    {
+      "cat": "Ciencias",
+      "q": "¿Los animales que se alimentan de carne de otros animales son...?",
+      "opts": ["Carnívoros", "Herbívoros", "Omnívoros", "Vegetarianos"],
+      "a": "Carnívoros",
+      "tip": "Como el león o el lobo."
+    },
+    {
+      "cat": "Ciencias",
+      "q": "¿Los seres que comen tanto plantas como carne se denominan...?",
+      "opts": ["Omnívoros", "Herbívoros", "Carnívoros", "Frugívoros"],
+      "a": "Omnívoros",
+      "tip": "Los humanos y los osos entran en esta categoría."
+    },
+    {
+      "cat": "Ciencias",
+      "q": "¿Los animales que nacen del vientre materno se llaman...?",
+      "opts": ["Vivíparos", "Ovíparos", "Ovovivíparos", "Reptiles"],
+      "a": "Vivíparos",
+      "tip": "Como los perros, gatos y humanos."
+    },
+    {
+      "cat": "Ciencias",
+      "q": "¿Los animales que nacen de huevos se llaman...?",
+      "opts": ["Ovíparos", "Vivíparos", "Mamíferos", "Acuáticos"],
+      "a": "Ovíparos",
+      "tip": "Como las aves, tortugas y peces."
+    },
+    {
+      "cat": "Ciencias",
+      "q": "¿Cómo se llama el movimiento de la Tierra sobre su propio eje que provoca el día y la noche?",
+      "opts": ["Rotación", "Traslación", "Nutación", "Órbita"],
+      "a": "Rotación",
+      "tip": "Gira como un trompo cada 24 horas."
+    },
+    {
+      "cat": "Ciencias",
+      "q": "¿Cómo se llama el viaje de la Tierra alrededor del Sol que dura 365 días?",
+      "opts": ["Traslación", "Rotación", "Inclinación", "Eclipse"],
+      "a": "Traslación",
+      "tip": "Da lugar a las cuatro estaciones del año."
+    },
+    {
+      "cat": "Ciencias",
+      "q": "¿Cuál es el satélite natural que orbita alrededor de la Tierra?",
+      "opts": ["La Luna", "El Sol", "Marte", "La Estación Espacial"],
+      "a": "La Luna",
+      "tip": "La vemos brillante por las noches."
+    },
+    {
+      "cat": "Ciencias",
+      "q": "¿Qué planeta es conocido popularmente como el Planeta Rojo?",
+      "opts": ["Marte", "Venus", "Júpiter", "Mercurio"],
+      "a": "Marte",
+      "tip": "Tiene óxido de hierro en su suelo."
+    },
+    {
+      "cat": "Ciencias",
+      "q": "¿Cuál es el planeta más grande de todo nuestro Sistema Solar?",
+      "opts": ["Júpiter", "Saturno", "Neptuno", "La Tierra"],
+      "a": "Júpiter",
+      "tip": "Un gigante gaseoso enorme."
+    },
+    {
+      "cat": "Ciencias",
+      "q": "¿Cuál es la fuerza invisible que atrae los objetos hacia el centro de la Tierra impidiendo que flotemos?",
+      "opts": ["Gravedad", "Magnetismo", "Fricción", "Electricidad"],
+      "a": "Gravedad",
+      "tip": "Descubierta y estudiada por Isaac Newton."
+    },
+    {
+      "cat": "Lenguaje",
+      "q": "¿Qué tipo de palabra expresa una acción como correr, comer o saltar?",
+      "opts": ["Verbo", "Sustantivo", "Adjetivo", "Adverbio"],
+      "a": "Verbo",
+      "tip": "Lo que los personajes hacen."
+    },
+    {
+      "cat": "Lenguaje",
+      "q": "¿Qué tipo de palabra se usa para nombrar personas, animales, lugares o cosas?",
+      "opts": ["Sustantivo", "Verbo", "Adjetivo", "Preposición"],
+      "a": "Sustantivo",
+      "tip": "Por ejemplo: mesa, perro, Juan, México."
+    },
+    {
+      "cat": "Lenguaje",
+      "q": "¿Qué clase de palabra nos dice cómo es o cómo está un sustantivo (alto, azul, rápido)?",
+      "opts": ["Adjetivo calificativo", "Verbo", "Artículo", "Pronombre"],
+      "a": "Adjetivo calificativo",
+      "tip": "Describe una cualidad o característica."
+    },
+    {
+      "cat": "Lenguaje",
+      "q": "¿En la oración 'El perro blanco corre rápido', cuál es el adjetivo?",
+      "opts": ["Blanco", "Perro", "Corre", "El"],
+      "a": "Blanco",
+      "tip": "Indica el color del perro."
+    },
+    {
+      "cat": "Lenguaje",
+      "q": "¿En la oración 'Los niños juegan fútbol en el parque', cuál es el verbo?",
+      "opts": ["Juegan", "Niños", "Fútbol", "Parque"],
+      "a": "Juegan",
+      "tip": "Es la acción que realizan."
+    },
+    {
+      "cat": "Lenguaje",
+      "q": "¿Las palabras que significan lo mismo o algo muy parecido se llaman...?",
+      "opts": ["Sinónimos", "Antónimos", "Homófonas", "Rimas"],
+      "a": "Sinónimos",
+      "tip": "Por ejemplo: feliz y contento."
+    },
+    {
+      "cat": "Lenguaje",
+      "q": "¿Cuál es un sinónimo de la palabra 'Rápido'?",
+      "opts": ["Veloz", "Lento", "Pesado", "Tranquilo"],
+      "a": "Veloz",
+      "tip": "Que se mueve con mucha velocidad."
+    },
+    {
+      "cat": "Lenguaje",
+      "q": "¿Las palabras que tienen significados totalmente contrarios se llaman...?",
+      "opts": ["Antónimos", "Sinónimos", "Sustantivos", "Agudas"],
+      "a": "Antónimos",
+      "tip": "Por ejemplo: luz y oscuridad."
+    },
+    {
+      "cat": "Lenguaje",
+      "q": "¿Cuál es el antónimo de la palabra 'Valiente'?",
+      "opts": ["Cobarde", "Fuerte", "Atrevido", "Héroe"],
+      "a": "Cobarde",
+      "tip": "Persona que tiene miedo."
+    },
+    {
+      "cat": "Lenguaje",
+      "q": "¿Qué sílaba suena con mayor intensidad en las palabras agudas?",
+      "opts": ["La última sílaba", "La penúltima", "La antepenúltima", "La primera"],
+      "a": "La última sílaba",
+      "tip": "Como en café, canción o mamá."
+    },
+    {
+      "cat": "Lenguaje",
+      "q": "¿Las palabras graves llevan el acento o fuerza de voz en la...?",
+      "opts": ["Penúltima sílaba", "Última sílaba", "Antepenúltima sílaba", "Primera sílaba"],
+      "a": "Penúltima sílaba",
+      "tip": "Como en árbol, mesa o lápiz."
+    },
+    {
+      "cat": "Lenguaje",
+      "q": "¿Las palabras esdrújulas se acentúan siempre en la...?",
+      "opts": ["Antepenúltima sílaba", "Última", "Penúltima", "Sílaba final"],
+      "a": "Antepenúltima sílaba",
+      "tip": "Todas llevan tilde obligatoria, como pájaro o música."
+    },
+    {
+      "cat": "Lenguaje",
+      "q": "¿Cuál de las siguientes palabras es un sustantivo propio y debe escribirse con mayúscula inicial?",
+      "opts": ["México", "país", "ciudad", "río"],
+      "a": "México",
+      "tip": "Es el nombre oficial de un país."
+    },
+    {
+      "cat": "Lenguaje",
+      "q": "¿Cuántas sílabas tiene la palabra 'Elefante'?",
+      "opts": ["4 sílabas", "3 sílabas", "5 sílabas", "2 sílabas"],
+      "a": "4 sílabas",
+      "tip": "E - le - fan - te."
+    },
+    {
+      "cat": "Lenguaje",
+      "q": "¿Cuántas sílabas tiene la palabra 'Sol'?",
+      "opts": ["1 sílaba", "2 sílabas", "3 sílabas", "0 sílabas"],
+      "a": "1 sílaba",
+      "tip": "Es un monosílabo que se pronuncia de un solo golpe."
+    },
+    {
+      "cat": "Lenguaje",
+      "q": "¿Qué signo ortográfico se utiliza para marcar una pausa breve en la lectura?",
+      "opts": ["La coma (,)", "El punto (.)", "Los dos puntos (:)", "El guion (-)"],
+      "a": "La coma (,)",
+      "tip": "Separa elementos en una lista."
+    },
+    {
+      "cat": "Lenguaje",
+      "q": "¿Qué signo ortográfico indica el final de un texto o párrafo?",
+      "opts": ["El punto (.)", "La coma (,)", "El asterisco (*)", "El paréntesis ()"],
+      "a": "El punto (.)",
+      "tip": "Punto final o punto y aparte."
+    },
+    {
+      "cat": "Lenguaje",
+      "q": "¿Qué signos se utilizan para expresar sorpresa, admiración o emoción?",
+      "opts": ["Signos de exclamación (¡!)", "Signos de interrogación (¿?)", "Comillas (\" \")", "Guiones (-)"],
+      "a": "Signos de exclamación (¡!)",
+      "tip": "Como en ¡Auxilio! o ¡Feliz cumpleaños!"
+    },
+    {
+      "cat": "Lenguaje",
+      "q": "¿Cuál es la forma correcta de escribir la palabra?",
+      "opts": ["Hacer", "Aser", "Haser", "Acer"],
+      "a": "Hacer",
+      "tip": "Verbo que lleva H al inicio y C en medio."
+    },
+    {
+      "cat": "Lenguaje",
+      "q": "¿Cuál es el tiempo verbal de la oración 'Mañana comeremos pizza'?",
+      "opts": ["Futuro", "Pasado", "Presente", "Copretérito"],
+      "a": "Futuro",
+      "tip": "Indica una acción que todavía no ha sucedido."
+    }
+  ]
+}
