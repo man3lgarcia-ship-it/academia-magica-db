@@ -1,0 +1,18 @@
+{
+  "preguntas": [
+    {
+      "cat": "Matemáticas Junior",
+      "q": "¿Cuánto es 5 + 5?",
+      "opts": ["10", "8", "12", "9"],
+      "a": "10",
+      "tip": "Suma básica."
+    },
+    {
+      "cat": "Ciencias",
+      "q": "¿De qué color es el cielo despejado de día?",
+      "opts": ["Azul", "Rojo", "Verde", "Amarillo"],
+      "a": "Azul",
+      "tip": "Mira hacia arriba en un día soleado."
+    }
+  ]
+}
