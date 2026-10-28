@@ -1,18 +1,144 @@
 {
   "preguntas": [
     {
-      "cat": "Matemáticas Junior",
+      "cat": "Cálculo mental",
       "q": "¿Cuánto es 5 + 5?",
       "opts": ["10", "8", "12", "9"],
       "a": "10",
       "tip": "Suma básica."
     },
     {
+      "cat": "Cálculo mental",
+      "q": "¿Cuánto es 10 - 4?",
+      "opts": ["6", "7", "5", "8"],
+      "a": "6",
+      "tip": "A diez quítale cuatro."
+    },
+    {
+      "cat": "Cálculo mental",
+      "q": "¿Cuánto es 3 + 7?",
+      "opts": ["10", "11", "9", "8"],
+      "a": "10",
+      "tip": "Junta tres y siete."
+    },
+    {
+      "cat": "Cálculo mental",
+      "q": "¿Cuánto es 8 + 2?",
+      "opts": ["10", "12", "9", "7"],
+      "a": "10",
+      "tip": "Agrega dos a ocho."
+    },
+    {
+      "cat": "Problemas",
+      "q": "Si tienes 3 manzanas y te regalan 2 más, ¿cuántas tienes?",
+      "opts": ["5", "6", "4", "7"],
+      "a": "5",
+      "tip": "Suma tus manzanas."
+    },
+    {
+      "cat": "Problemas",
+      "q": "Había 6 pájaros en un árbol y volaron 2. ¿Cuántos quedaron?",
+      "opts": ["4", "5", "3", "6"],
+      "a": "4",
+      "tip": "Resta los que se fueron."
+    },
+    {
+      "cat": "Problemas",
+      "q": "Tienes 5 dulces y te comes 1. ¿Cuántos te quedan?",
+      "opts": ["4", "3", "5", "2"],
+      "a": "4",
+      "tip": "Quita un dulce."
+    },
+    {
+      "cat": "Problemas",
+      "q": "En una caja hay 4 canicas rojas y 4 azules. ¿Cuántas hay en total?",
+      "opts": ["8", "7", "9", "6"],
+      "a": "8",
+      "tip": "Suma 4 más 4."
+    },
+    {
+      "cat": "Geometría",
+      "q": "¿Cuántos lados tiene un triángulo?",
+      "opts": ["3", "4", "5", "2"],
+      "a": "3",
+      "tip": "Cuenta sus puntas."
+    },
+    {
+      "cat": "Geometría",
+      "q": "¿Cuántos lados iguales tiene un cuadrado?",
+      "opts": ["4", "3", "5", "6"],
+      "a": "4",
+      "tip": "Tiene forma de ventana o caja cuadrada."
+    },
+    {
+      "cat": "Geometría",
+      "q": "¿Qué figura geométrica es completamente redonda?",
+      "opts": ["Círculo", "Triángulo", "Rectángulo", "Rombo"],
+      "a": "Círculo",
+      "tip": "Tiene forma de moneda o rueda."
+    },
+    {
+      "cat": "Geometría",
+      "q": "¿Una pelota de fútbol tiene forma de...?",
+      "opts": ["Esfera", "Cubo", "Cono", "Pirámide"],
+      "a": "Esfera",
+      "tip": "Cuerpo geométrico redondo."
+    },
+    {
       "cat": "Ciencias",
       "q": "¿De qué color es el cielo despejado de día?",
       "opts": ["Azul", "Rojo", "Verde", "Amarillo"],
       "a": "Azul",
-      "tip": "Mira hacia arriba en un día soleado."
+      "tip": "Mira hacia arriba en un día con sol."
+    },
+    {
+      "cat": "Ciencias",
+      "q": "¿Qué necesitan las plantas para crecer además de tierra?",
+      "opts": ["Agua y luz solar", "Jugo y sombra", "Leche y viento", "Hielo"],
+      "a": "Agua y luz solar",
+      "tip": "Las riegas y toman sol."
+    },
+    {
+      "cat": "Ciencias",
+      "q": "¿Cuál es el astro rey que nos da luz y calor durante el día?",
+      "opts": ["El Sol", "La Luna", "Marte", "La Estrella polar"],
+      "a": "El Sol",
+      "tip": "Brilla en el cielo de día."
+    },
+    {
+      "cat": "Ciencias",
+      "q": "¿Cuántas patas tiene un perro común?",
+      "opts": ["4", "2", "6", "8"],
+      "a": "4",
+      "tip": "Es un cuadrúpedo."
+    },
+    {
+      "cat": "Lenguaje",
+      "q": "¿Con qué letra empieza la palabra 'Árbol'?",
+      "opts": ["A", "E", "O", "U"],
+      "a": "A",
+      "tip": "Es la primera vocal del abecedario."
+    },
+    {
+      "cat": "Lenguaje",
+      "q": "¿Cuántas vocales tiene el alfabeto en español?",
+      "opts": ["5", "6", "4", "7"],
+      "a": "5",
+      "tip": "A, E, I, O, U."
+    },
+    {
+      "cat": "Lenguaje",
+      "q": "¿Cuál es el opuesto o antónimo de 'Grande'?",
+      "opts": ["Pequeño", "Alto", "Gordo", "Fuerte"],
+      "a": "Pequeño",
+      "tip": "De poco tamaño."
+    },
+    {
+      "cat": "Lenguaje",
+      "q": "¿Cuál es el plural de la palabra 'Flor'?",
+      "opts": ["Flores", "Flors", "Floras", "Floreces"],
+      "a": "Flores",
+      "tip": "Cuando hay muchas."
     }
   ]
 }
